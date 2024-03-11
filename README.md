@@ -1,5 +1,28 @@
 # coderbyte-test
 
+
+<p align="center">
+  <img src="./tickets.drawio.png" width="600"/> 
+</p>
+
+<p align="center">	
+   <a href="https://www.linkedin.com/in/gustavo-gk/">
+      <img alt="GustavoAssunção" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/gustavogk/async-repo-cloner?style=for-the-badge" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/gustavogk/async-repo-cloner?style=for-the-badge" />
+  <a href="mailto:gust.krv@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/gustavogk"> Gustavo Assunção.
+    <h1></h1>
+  </sub>
+</div>
+
 # Arquitetura proposta para sistema de venda de ingressos
 
 Esta é uma proposta de arquitetura para um sistema de venda de ingressos, projetado para lidar com alta demanda e um número limitado de ingressos, garantindo justiça, igualdade e minimizando o impacto da velocidade da internet na compra. Abaixo estão os principais componentes e o funcionamento do sistema.
